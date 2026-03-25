@@ -1,13 +1,10 @@
-# DataCleaning
-Portfolio samples of data cleaning
-
 # INGREDIENT DATA CLEANING PIPELINE
-==================================
  
 A Jupyter Notebook pipeline for standardizing and validating messy client
 ingredient upload files. Built for cosmetics/formulation contexts where data
 quality across supplier records, INCI names, and concentration values directly
 affects compliance and downstream processing.
+
  
  
 DATASET
